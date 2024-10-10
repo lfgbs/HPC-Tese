@@ -1,0 +1,1 @@
+river,scenario,model,stateful,split,folds,trials,train_set_size,n_train_samples,test_set_size,n_test_samples,memory,r2_train,r2_test,adj_r2_train,adj_r2_test,rmse_train,rmse_test,mae_train,mae_test,loss,alpha,batch_size,epochs,patience,depth,units,dropout_rate,l1,l2,learning_rate,kernel_size,pool_size,activation,padding,fit_time,search_time
